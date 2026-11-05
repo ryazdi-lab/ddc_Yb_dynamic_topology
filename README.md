@@ -8,23 +8,24 @@ The input ablation compares four configurations:
 
 | Configuration | Input |
 | --- | --- |
-| `ddc` | $D_{dc}$ |
-| `ddc_yb` | $D_{dc}$ and both components of $Y_{bus}$ |
-| `ddc_imag` | $D_{dc}$ and $\operatorname{Im}(Y_{bus})$ |
-| `ddc_real` | $D_{dc}$ and $\operatorname{Re}(Y_{bus})$ |
+| `ddc` | `Ddc` only |
+| `ddc_yb` | `Ddc` + real and imaginary parts of `Ybus` |
+| `ddc_imag` | `Ddc` + imaginary part of `Ybus` |
+| `ddc_real` | `Ddc` + real part of `Ybus` |
 
 Test performance is reported using $R^2$, RMSE, and MAE over three training seeds.
 
-The **Axial Transformer with full bus admittance (`ddc_yb`)** achieved the highest mean test $R^2$ across all three grid sizes: **0.8822** for 30 buses, **0.8768** for 39 buses, and **0.8674** for 57 buses.
+The **Axial Transformer with full bus admittance (`ddc+yb`)** achieved the highest mean test $R^2$ across all three grid sizes: **0.8822** for 30 buses, **0.8768** for 39 buses, and **0.8674** for 57 buses.
 
 ## Citation
 
 If you use this code in your research, please cite the accompanying manuscript.
 
 ```bibtex
-@unpublished{yazdi_topology_aware,
+@unpublished{yazdi_topology_aware2026,
   author = {Yazdi, Reza and Shahraeini, Mohammad},
+  year   = {2026},
   title  = {Topology-Aware Reactive Dependency Estimation from {DC} Load Flow Data via Deep and Non-Deep Learning},
-  note   = {Manuscript}
+  note   = {Manuscript submitted to ICSPIS 2026}
 }
 ```
