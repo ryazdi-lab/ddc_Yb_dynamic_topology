@@ -1,0 +1,22 @@
+{
+  "case30": {
+    "both_model_shapes_and_gradients": true,
+    "excluded_input_values_and_gradients_blocked": true,
+    "negative_outputs_supported": true,
+    "paired_initial_weights_and_parameter_count": true,
+    "raw_inference_matches_saved_test_predictions_all_four_variants": true
+  },
+  "case57": {
+    "both_model_shapes_and_gradients": true,
+    "excluded_input_values_and_gradients_blocked": true,
+    "negative_outputs_supported": true,
+    "paired_initial_weights_and_parameter_count": true,
+    "raw_inference_matches_saved_test_predictions_all_four_variants": true
+  },
+  "streaming_metrics_match_global_uneven_batch_metrics": true,
+  "interrupted_epoch_resume_matches_uninterrupted_weights_exactly_cpu": true,
+  "cuda_tested_locally": false,
+  "note": "Small two-epoch CPU smoke tests establish compatibility, not predictive accuracy.",
+  "notebook_cells_executed_in_cpu_smoke_mode": true,
+  "optional_vmag_both_models_case57_cpu_training": true
+}

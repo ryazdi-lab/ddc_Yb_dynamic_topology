@@ -1,0 +1,27 @@
+{
+  "dataset.py": {
+    "original_path": "C:\\Users\\Admin\\Downloads\\dataset.py",
+    "original_sha256": "d809177d7dc45f5ee2110fb604d20664a64bd65ce4af74ed319fcb627f6e4ed6",
+    "modified_sha256": "620e4694e93d23abceade32648f78d1a8dfaf7ced5bdfd48f6c285a7bf43a12b"
+  },
+  "metrics.py": {
+    "original_path": "C:\\Users\\Admin\\Downloads\\metrics.py",
+    "original_sha256": "4b3954211ae7082b12bea5837e1bb0a69ce116980dd3d90702500e3d4b82c186",
+    "modified_sha256": "9329b994c81344e610fe98b67bfd9f91379c8ab77ff8b234e28b3d8bd792ba49"
+  },
+  "transformer_model.py": {
+    "original_path": "C:\\Users\\Admin\\Downloads\\transformer_model.py",
+    "original_sha256": "6ba7349d7c3dd2286c28835468190bd160ca6775361b6e1b4b4a051dccca8418",
+    "modified_sha256": "cbe5f08f4d603a898247dfb193d2cc2919a35b0b5e7c0fbae3051763134968ab"
+  },
+  "train_transformer_imlive.py": {
+    "original_path": "C:\\Users\\Admin\\Downloads\\train_transformer_imlive.py",
+    "original_sha256": "593cdf839a04da0f15eef60719a264310b1118bbd1d41eab0433da5773e12a5e",
+    "modified_sha256": "c9c1e2579bdcf9a1dc753a9c3e88a8c29f430ced4120e7abc7d07440b0a257cb"
+  },
+  "case30.ipynb": {
+    "original_path": "C:\\Users\\Admin\\Downloads\\case30.ipynb",
+    "original_sha256": "f4ed00ac38375de88f45c2bbf212b40049492cc83d165ae37a9a4c0aa2c2d793",
+    "modified_sha256": "739c70fda1a529615cb3da0306b7d077a1ca0e72e7eaab18270d47530aacf671"
+  }
+}

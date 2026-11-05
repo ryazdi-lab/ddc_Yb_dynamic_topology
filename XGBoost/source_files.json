@@ -1,0 +1,12 @@
+{
+  "gpu_xgboost_vmag.py": {
+    "original_path": "C:\\Users\\Admin\\Downloads\\gpu_xgboost_vmag.py",
+    "original_sha256": "c3800da8a3c424cf0585422d6efaac990e80cd4aa9f9ecb32d221f66ba1a2c2d",
+    "modified_sha256": "b64efc9e62ea7abd6a0b4a3174199f219e9cbbdaa45e131cf4250d3bc3063790"
+  },
+  "Case30.ipynb": {
+    "original_path": "C:\\Users\\Admin\\Downloads\\Case30.ipynb",
+    "original_sha256": "659f19cbc7735e4bb6fa1453cd3ccd747904d6df3bd4734865a16e7b174a843d",
+    "modified_sha256": "462679aa583d5863e06da46d1880e853986b888f20241e355872502a3fb3461e"
+  }
+}
