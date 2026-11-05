@@ -1,0 +1,2 @@
+dataset/case39/dataset_train.npz filter=lfs diff=lfs merge=lfs -text
+dataset/case57/dataset_train.npz filter=lfs diff=lfs merge=lfs -text
